@@ -5,9 +5,12 @@
     font-weight: bolder;
 }
 
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #recipe{
     font-size: 18px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .one{
@@ -25,4 +28,20 @@
 .img{
     height: auto;
     width: 500px;
+}
+
+.title{
+    background-color: rgba(224, 190, 88, 0.931);
+}
+
+.button{
+    font-weight: bold;
+}
+
+#back-home{
+    color: rgba(0, 229, 255, 0.852);
+}
+
+#next{
+    color: rgba(0, 170, 255, 0.852);
 }
