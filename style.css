@@ -1,0 +1,28 @@
+#main{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-align: center;
+    color: rgba(224, 190, 88, 0.931);
+    font-weight: bolder;
+}
+
+#recipe{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one{
+    color: rgb(82, 82, 180);
+}
+
+.two{
+    color: rgb(168, 50, 144);
+}
+
+.three{
+    color: rgb(140, 9, 57);
+}
+
+.img{
+    height: auto;
+    width: 500px;
+}
